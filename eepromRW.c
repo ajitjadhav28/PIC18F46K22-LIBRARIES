@@ -7,7 +7,6 @@
 
 
 #include <xc.h>
-#include "../DHT11_Humidity.X/config_bits.h"
 #include "eepromRW.h"
 
 char eepromRead(unsigned int adr) {
