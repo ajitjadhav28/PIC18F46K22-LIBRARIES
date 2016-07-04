@@ -4,6 +4,11 @@
  * Comments: Function definations for eepromRW.c    
  * Revision history: 1.0.0
  */
+ 
+ /* PIC18F46K22-LIBRARIES is distributed under GNU GENERAL PUBLIC LICENSE.
+ * http://www.gnu.org/licenses/
+ * Copyright (c) 2016 Ajit Jadhav.
+ */
 
 // This is a guard condition so that contents of this file are not included
 // more than once.  
