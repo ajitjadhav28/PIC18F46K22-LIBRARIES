@@ -5,6 +5,10 @@
  * Created on 17 June, 2016, 8:55 PM
  */
 
+/* PIC18F46K22-LIBRARIES is distributed under GNU GENERAL PUBLIC LICENSE.
+ * http://www.gnu.org/licenses/
+ * Copyright (c) 2016 Ajit Jadhav.
+ */
 
 #include <xc.h>
 #include "eepromRW.h"
