@@ -11,7 +11,6 @@
 #define	EEPROMRW_H
 
 #include <xc.h> // include processor files - each processor file is guarded.  
-#include <stdbool.h>
 
 char eepromRead(unsigned int);
 char eepromWrite(unsigned int, char);
