@@ -1,6 +1,7 @@
 /*
  * File: eepromRW.c
  * Author: Ajit Jadhav
+ * Comment: This library is created to reaad and write data from internal eeprom of PIC 
  * Version: 1.0.0
  * Created on 17 June, 2016, 8:55 PM
  */
