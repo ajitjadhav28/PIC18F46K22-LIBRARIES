@@ -13,7 +13,6 @@
 #include <xc.h>
 
 #include "DHT11.h"
-#include "lcd.h"
 
 // Define DHT11 sensor data pin here 
 #define DHT11_RD PORTBbits.RB4
