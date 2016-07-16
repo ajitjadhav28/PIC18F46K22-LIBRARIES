@@ -10,6 +10,8 @@
   * Copyright (c) 2016 Ajit Jadhav.
   */
 
+/* Library currently doesn't support crystal frequency below 16MHz but will support in next update. */
+
 #include <xc.h>
 
 #include "DHT11.h"
